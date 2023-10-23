@@ -20,4 +20,5 @@ public class JDBC_Connection {
     public static void closeConnection (Connection connection) throws SQLException {
         connection.close();
     }
+hola uwu
 }
